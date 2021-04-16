@@ -1,0 +1,14 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+html,body
+{
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: white;
+  scroll-behavior: smooth;
+  /*background-image: url("../img/dvdp.gif");*/
+  background-repeat:repeat;
+  scroll-behavior:smooth;
+}
